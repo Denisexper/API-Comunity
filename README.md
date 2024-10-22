@@ -17,11 +17,11 @@ en mi caso la carpeta del backend la tengo llamada como $server y la carpeta que
 
 
 COMANDOS
-git clone https://github.com/Denisexper/API-Comunity.git
-cd server
-npm install
-npm run build
-npm start
-cd src
-npm install
-npm run serve
+$git clone https://github.com/Denisexper/API-Comunity.git
+$cd server
+$npm install
+$npm run build
+$npm start
+$cd src
+$npm install
+$npm run serve
