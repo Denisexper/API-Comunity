@@ -1,4 +1,5 @@
 Este proyecto consiste en un crud API de tareas
+Realizado con TypeScript y Vue
 a continuacion se brindaran las instrucciones para la instalacion de las dependencias para su vista previa.
 en mi caso la carpeta del backend la tengo llamada como $server y la carpeta que contiene el frontend la tengo llamada como $src
 
@@ -15,13 +16,13 @@ en mi caso la carpeta del backend la tengo llamada como $server y la carpeta que
 11. ahora para observar el crud mantenemos apretado la tecla control y hacemos click en la url que nos aparecio despues de levantar el frontend
 12. y luego observamos en nuestro navegador.
 
-
 COMANDOS
-$git clone https://github.com/Denisexper/API-Comunity.git
-$cd server
-$npm install
-$npm run build
-$npm start
-$cd src
-$npm install
-$npm run serve
+1. git clone https://github.com/Denisexper/API-Comunity.git
+2. cd server
+3. npm install
+4. npm run build
+5. npm start
+6. cd src
+7. npm install
+8. npm run serve
+
