@@ -15,13 +15,13 @@ en mi caso la carpeta del backend la tengo llamada como $server y la carpeta que
 11. ahora para observar el crud mantenemos apretado la tecla control y hacemos click en la url que nos aparecio despues de levantar el frontend
 12. y luego observamos en nuestro navegador.
 
+
 COMANDOS
-·git clone https://github.com/Denisexper/API-Comunity.git
-·cd server
-·npm install
-·npm run build
-·npm start
-·cd src
-·npm install
-·npm run serve
-Done
+git clone https://github.com/Denisexper/API-Comunity.git
+cd server
+npm install
+npm run build
+npm start
+cd src
+npm install
+npm run serve
